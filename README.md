@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-in&repo=Sandbox)](https://gist.github.com/mu-in/Sandbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Study-Mornda&repo=Effective-Java)](https://github.com/Study-Mornda/Effective-Java)
 
 <!--
 - 🌱 I’m currently learning ...
